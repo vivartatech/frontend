@@ -14,12 +14,14 @@
   * [https://in.udacity.com/course/javascript-design-patterns--ud989](https://in.udacity.com/course/javascript-design-patterns--ud989)
   * [https://in.udacity.com/course/asynchronous-javascript-requests--ud109](https://in.udacity.com/course/asynchronous-javascript-requests--ud109)
   * [https://in.udacity.com/course/javascript-promises--ud898](https://in.udacity.com/course/javascript-promises--ud898)
-
+  * [You dont' know JS series](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
 
 ### Protocols, APIs and communication with backend
 * [https://www.udacity.com/course/client-server-communication--ud897](https://www.udacity.com/course/client-server-communication--ud897
 )
 * [https://www.udacity.com/course/http-web-servers--ud303](https://www.udacity.com/course/http-web-servers--ud303)
+* REST
+* GraphQL
 
 ### Recommended
 * [https://www.edx.org/course/cs50s-introduction-to-computer-science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
